@@ -1,6 +1,9 @@
 # Practical_Application_Assignment_5p1
 Practical assignment of Module 5 of UC Berkeley Professional Certificate on ML and AI
 
+Link:
+https://github.com/tolispapathan/Practical_Application_Assignment_5p1
+
 Overview:
 - In this assignment, the goal is to analyze data related to the acceptance of coupons delivered to drivers in the vicinity of a number of stores such as restaurants and coffee houses. The target is to use what was taught about data visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not. This data is taken from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk: The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver.
 
